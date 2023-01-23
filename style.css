@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header img{
+    height: 150px;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    
+}
+
+a{
+    color: white;
+}
+
+h1{
+    margin: 50px 10px;
+}
+
+.Kampfberichte{
+    background-color: lightgray;
+    padding: 50px;
+}
+
+.bericht{
+    margin-top: 69px;
+    margin-left: 20px;
+    max-width: 700px;
+}
+
+.produkt img{
+    width: 250px;
+    border: 2px solid black; 
+}
+
+.produktbeschreibung{
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: grey;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.preis{
+    font-size: 30px;
+    text-decoration: underline;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+
+.online-shop{
+    padding: 50px;
+}
+
+.produkt{
+    margin-top: 69px;
+    margin-left: 20px;
+}
+.online-shop h3{
+    margin-right: 20px;
+}
+
+button{
+    background-color: green;
+    border: 2px solid black;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 1s;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+
+}
+
+.footer{
+    background-color: black;
+    padding: 50px;
+}
+.footer a{
+    display: block;
+    text-align: center;
+    margin: 10px;
+}
+.david-taylor{
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    
+    margin: 50px;
+}
+.baden{
+    width: 589px;
+    height: 364px;
+    border: 2px solid black;
+    margin: 50px;
+}
